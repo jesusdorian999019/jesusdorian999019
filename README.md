@@ -1,16 +1,44 @@
-## Hi there 👋
+<h1 align="center">Jesús Ururi 👨‍💻</h1>
 
-<!--
-**jesusdorian999019/jesusdorian999019** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://media.giphy.com/media/TFPdmm3rdzeZ0kP3zG/giphy.gif" width="250"/>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  Junior Cybersecurity & IT Support Technician
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Sobre mí
+- Técnico junior en ciberseguridad y soporte TI  
+- Experiencia en Linux y redes  
+- Aprendiendo mediante proyectos reales  
+
+---
+
+## 🛠️ Tecnologías
+🐧 Linux  
+🌐 Networking  
+🐍 Python  
+⚙️ Bash  
+
+---
+
+## 📌 Proyectos destacados
+- DDoS Mitigator  
+- Visor gráfico  
+- Subastas Online  
+
+---
+
+## 📈 Actualmente
+- Mejorando habilidades en ciberseguridad  
+- Practicando redes y seguridad  
+- Construyendo herramientas propias  
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="250"/>
+</p>
